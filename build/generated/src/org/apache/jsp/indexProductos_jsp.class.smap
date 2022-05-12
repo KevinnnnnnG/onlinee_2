@@ -1,0 +1,30 @@
+SMAP
+indexProductos_jsp.java
+JSP
+*S JSP
+*F
++ 0 indexProductos.jsp
+indexProductos.jsp
++ 1 cdn.jsp
+commons/index/cdn.jsp
++ 2 cabecera.jsp
+commons/index/cabecera.jsp
++ 3 card.jsp
+card.jsp
+*L
+1,13:61
+1#1,7:74
+13#0,4:81
+1#2,35:85
+16#0,2:119
+5#3,14:121
+1#1,7:135
+18#3,10:142
+28,6:153
+33,6:159
+39,3:165,3
+42,3:174
+45,2:178
+46,6:180
+17#0,3:185
+*E

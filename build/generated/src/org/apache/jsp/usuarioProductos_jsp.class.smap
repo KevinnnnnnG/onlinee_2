@@ -1,0 +1,28 @@
+SMAP
+usuarioProductos_jsp.java
+JSP
+*S JSP
+*F
++ 0 usuarioProductos.jsp
+usuarioProductos.jsp
++ 1 cdn.jsp
+commons/index/cdn.jsp
++ 2 CabeceraU.jsp
+commons/usuarios/CabeceraU.jsp
+*L
+1,14:55
+1#1,7:69
+14#0,5:76
+1#2,33:81
+34:114,3
+35,3:117
+38,2:120,3
+40,17:126
+18#0,7:142
+25,6:150
+30,6:156
+36,3:162,3
+39,4:171
+43,2:176
+44,5:178
+*E
